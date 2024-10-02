@@ -7,5 +7,4 @@ print(return_max(arr))
 
 print('Online Changes')
 print('Offline changes ')
-
 print('New Line')
